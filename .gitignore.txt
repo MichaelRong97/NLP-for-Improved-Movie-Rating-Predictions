@@ -1,0 +1,5 @@
+movie_dataset_public_final
+
+.ipynb_checkpoints
+
+capstone deliverable assignments
